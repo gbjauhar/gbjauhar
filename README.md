@@ -5,9 +5,9 @@ I'm a brazilian web full stack dev, learning how to explain life through code.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-🔭 My latest project <a href="https://github.com/gbjauhar/Boardcamp">Boardcamp</a>!
+🔭 My latest project <a href="https://github.com/gbjauhar/Linkr-Front">Linkr Front</a> and <a href="https://github.com/gbjauhar/Linkr-Back">Linkr Back!</a>
 
-💬 At the moment studying at Driven
+💬 At the moment studying at Driven Education
 
 ## **Knowledge**  
 
