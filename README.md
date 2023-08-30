@@ -4,8 +4,9 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-🔭 I'm currently working at Wemails!
-
+🔭 I'm currently working at <a href="https://wemails.com.br/">Wemails!</a>
+🔭 You can find my professional profile on <a href="https://www.linkedin.com/in/gabriela-jauhar/">LinkedIn</a>
+🔭 Feel free to contact me!
 
 ## **Knowledge**  
 
