@@ -4,7 +4,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-🔭 I'm currently working at <a href="https://wemails.com.br/">Wemails!</a>
+🔭 I'm currently working at <a href="https://newinter.com.br/">New Inter!</a>
 <br/>🔭 You can find my professional profile on <a href="https://www.linkedin.com/in/gabriela-jauhar/">LinkedIn</a>
 <br/>🔭 Feel free to contact me!
 
@@ -17,7 +17,13 @@
 <code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</code>
 <code>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</code>
 <code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
+<code>![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)</code>
+<code>![React Native](https://img.shields.io/badge/react-native-3670A0?style=for-the-badge&logo=react-native&logoColor=ffdd54)</code>
+<code>![VueJS](https://img.shields.io/badge/vue.js-3670A0?style=for-the-badge&logo=vue.js&logoColor=ffdd54)</code>
+<code>![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54)</code>
+<code>![Laravel](https://img.shields.io/badge/laravel-3670A0?style=for-the-badge&logo=laravel&logoColor=ffdd54)</code>
 <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
+
 
 
 
