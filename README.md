@@ -18,10 +18,10 @@
 <code>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</code>
 <code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
 <code>![TypeScript](https://img.shields.io/badge/typescript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=blue)</code>
-<code>![React Native](https://img.shields.io/badge/-React_Native-05122A?style=for-the-badge&logo=react-native&logoColor=ffdd54)</code>
+<code>![React Native](https://img.shields.io/badge/-React_Native-05122A?style=for-the-badge&logo=react&logoColor=ffdd54)</code>
 <code>![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)</code>
-<code>![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)</code>
-<code>![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)</code>
+<code>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</code>
+<code>![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel)</code>
 <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
 
 
